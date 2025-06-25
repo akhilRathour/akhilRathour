@@ -1,13 +1,72 @@
 <h1 align="center">Hi 👋, I'm Akhil Rathour</h1>
-<h3 align="center">A software engineer from India</h3>
+<h3 align="center">Software Engineer | Machine Learning Enthusiast | OpenGL Developer</h3>
 
-- 📫 How to reach me **akhil_rathour@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@by_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@by_akhil" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akhil_insider" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhil_insider" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:akhilrathour45@gmail.com">📧 akhilrathour45@gmail.com</a> • 
+  <a href="tel:+918860846366">📱 +91 8860846366</a> • 
+  <a href="https://linkedin.com/in/akhil-rathour-268167291" target="_blank">🔗 LinkedIn</a> • 
+  <a href="https://github.com/akhilRathour" target="_blank">💻 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🎓 Education
+**B.Tech in Information Technology**  
+National Institute of Technology, Kurukshetra  
+📅 *Aug 2023 – Present*
+
+---
+
+## 🛠️ Skills
+
+**Languages:** C/C++, Python, Java, JavaScript  
+**Frameworks:** TensorFlow, PyTorch, Scikit-Learn, React.js, Express.js, Django (Python)  
+**Databases:** SQL  
+**APIs & Libraries:** OpenGL, NumPy, Pandas, Matplotlib  
+**Technologies:** Machine Learning, Deep Learning, Computer Graphics, TensorFlow.js, OpenGL, PyTorch  
+
+---
+
+## 💼 Experience
+
+### Hackathon Participant – *Smart India Hackathon (Semi-Finalist)*
+- 🛡 Built a liveness detection model to protect face recognition from spoof attacks.
+- 🧠 Trained a deep learning model using TensorFlow, improving predictive accuracy.
+- 🧹 Optimized preprocessing techniques, reducing data cleaning time by **15%**.
+- 🤝 Collaborated with a cross-functional team to improve model inference pipeline.
+
+### TEDx NIT Kurukshetra – *Managing Committee 2025*
+- 👥 Part of a **30-member** team, leading event coordination with speakers.
+- 🔧 Gained experience in leadership, time management, and coordination.
+
+---
+
+## 🚀 Projects
+
+### [🔗 Liveness Detection Model](https://github.com/akhilRathour/Liveness-Detection-model)
+- 🧠 Developed a deep learning-based **liveness detection model** using TensorFlow.
+- ⚙️ Deployed using **TensorFlow.js** for real-time browser inference.
+- 📱 Optimized for low-end devices by reducing overhead and improving speed by **15%**.
+- 📦 Quantization reduced model size by **30%** while maintaining accuracy.
+
+---
+
+### [🔗 AI-Powered Tic-Tac-Toe Game](https://github.com/akhilRathour/TicTacToe-game)
+- 🤖 Developed in **C++** using the Minimax algorithm for AI-based move prediction.
+- 🏆 Created an unbeatable AI with recursive logic and best-move evaluation.
+- 🖥 Interactive console-based UI for real-time gameplay.
+
+---
+
+### [🔗 Gravity Simulation with OpenGL (Ongoing)](https://github.com/akhilRathour/Gravity-Simulation)
+- 🌌 Built a **real-time gravity simulation** using OpenGL.
+- 🌍 Simulates celestial motion with gravitational physics and collision dynamics.
+- 📐 Implemented Newtonian physics equations to model **orbital motion and attraction**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilRathour&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
