@@ -43,6 +43,13 @@ National Institute of Technology, Kurukshetra
 
 ## 🚀 Projects
 
+### [🔗 Gravity Simulation with OpenGL (Ongoing)](https://github.com/akhilRathour/Gravity-Simulation)
+- 🌌 Built a **real-time gravity simulation** using OpenGL.
+- 🌍 Simulates celestial motion with gravitational physics and collision dynamics.
+- 📐 Implemented Newtonian physics equations to model **orbital motion and attraction**.
+
+---
+
 ### [🔗 Liveness Detection Model](https://github.com/akhilRathour/Liveness-Detection-model)
 - 🧠 Developed a deep learning-based **liveness detection model** using TensorFlow.
 - ⚙️ Deployed using **TensorFlow.js** for real-time browser inference.
