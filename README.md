@@ -65,12 +65,7 @@ National Institute of Technology, Kurukshetra
 
 ---
 
-### [🔗 Gravity Simulation with OpenGL (Ongoing)](https://github.com/akhilRathour/Gravity-Simulation)
-- 🌌 Built a **real-time gravity simulation** using OpenGL.
-- 🌍 Simulates celestial motion with gravitational physics and collision dynamics.
-- 📐 Implemented Newtonian physics equations to model **orbital motion and attraction**.
 
----
 
 ## 📊 GitHub Stats
 
